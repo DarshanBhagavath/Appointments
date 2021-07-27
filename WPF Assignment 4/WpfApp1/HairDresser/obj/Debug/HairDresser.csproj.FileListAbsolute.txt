@@ -1,0 +1,28 @@
+C:\Users\bhaga\source\repos\Assignment-3\HairDresser\HairDresser\bin\Debug\HairDresser.exe.config
+C:\Users\bhaga\source\repos\Assignment-3\HairDresser\HairDresser\bin\Debug\HairDresser.exe
+C:\Users\bhaga\source\repos\Assignment-3\HairDresser\HairDresser\bin\Debug\HairDresser.pdb
+C:\Users\bhaga\source\repos\Assignment-3\HairDresser\HairDresser\obj\Debug\HairDresser.csprojAssemblyReference.cache
+C:\Users\bhaga\source\repos\Assignment-3\HairDresser\HairDresser\obj\Debug\HairDresser.csproj.CoreCompileInputs.cache
+C:\Users\bhaga\source\repos\Assignment-3\HairDresser\HairDresser\obj\Debug\HairDresser.exe
+C:\Users\bhaga\source\repos\Assignment-3\HairDresser\HairDresser\obj\Debug\HairDresser.pdb
+C:\Users\bhaga\Downloads\Igor Assignment 3\HairDresser\HairDresser\bin\Debug\HairDresser.exe.config
+C:\Users\bhaga\Downloads\Igor Assignment 3\HairDresser\HairDresser\bin\Debug\HairDresser.exe
+C:\Users\bhaga\Downloads\Igor Assignment 3\HairDresser\HairDresser\bin\Debug\HairDresser.pdb
+C:\Users\bhaga\Downloads\Igor Assignment 3\HairDresser\HairDresser\obj\Debug\HairDresser.csprojAssemblyReference.cache
+C:\Users\bhaga\Downloads\Igor Assignment 3\HairDresser\HairDresser\obj\Debug\HairDresser.csproj.CoreCompileInputs.cache
+C:\Users\bhaga\Downloads\Igor Assignment 3\HairDresser\HairDresser\obj\Debug\HairDresser.exe
+C:\Users\bhaga\Downloads\Igor Assignment 3\HairDresser\HairDresser\obj\Debug\HairDresser.pdb
+C:\Users\bhaga\Downloads\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\bin\Debug\HairDresser.exe.config
+C:\Users\bhaga\Downloads\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\bin\Debug\HairDresser.exe
+C:\Users\bhaga\Downloads\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\bin\Debug\HairDresser.pdb
+C:\Users\bhaga\Downloads\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\obj\Debug\HairDresser.csprojAssemblyReference.cache
+C:\Users\bhaga\Downloads\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\obj\Debug\HairDresser.csproj.CoreCompileInputs.cache
+C:\Users\bhaga\Downloads\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\obj\Debug\HairDresser.exe
+C:\Users\bhaga\Downloads\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\obj\Debug\HairDresser.pdb
+C:\Users\bhaga\Documents\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\bin\Debug\HairDresser.exe.config
+C:\Users\bhaga\Documents\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\bin\Debug\HairDresser.exe
+C:\Users\bhaga\Documents\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\bin\Debug\HairDresser.pdb
+C:\Users\bhaga\Documents\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\obj\Debug\HairDresser.csprojAssemblyReference.cache
+C:\Users\bhaga\Documents\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\obj\Debug\HairDresser.csproj.CoreCompileInputs.cache
+C:\Users\bhaga\Documents\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\obj\Debug\HairDresser.exe
+C:\Users\bhaga\Documents\WPF Assignment 4\WPF Assignment 4\WpfApp1\HairDresser\obj\Debug\HairDresser.pdb
